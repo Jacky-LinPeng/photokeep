@@ -2,3 +2,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 @media(max-width:480px){.brand span{display:none}.hero h1{font-size:42px}nav{gap:12px}}
+/* Language controls and directional spacing share the same layout in every locale. */
+header{flex-wrap:wrap}.language{display:flex;align-items:center;gap:8px;font-size:13px}.language select{font:inherit;color:var(--ink);background:var(--white);border:1px solid var(--line);border-radius:12px;padding:9px;max-width:210px}select:focus-visible{outline:3px solid #438368;outline-offset:3px}.screens{grid-template-columns:repeat(4,minmax(0,1fr))}.step,.intro,.document{overflow-wrap:anywhere}.button{margin-inline-end:10px;margin-inline-start:0;text-align:center}[dir=rtl] h1,[dir=rtl] h2,[dir=rtl] .eyebrow,[dir=rtl] .brand{letter-spacing:normal}nav{flex-wrap:wrap}.document p{line-height:1.9}@media(max-width:760px){header{gap:12px}.language{width:100%}.hero h1{font-size:clamp(34px,10vw,48px)}.screens{grid-template-columns:1fr}.hero-art:before{max-width:80vw}}
