@@ -5,7 +5,7 @@
   "language": "Bahasa",
   "tagline": "Simpan kenangan. Rapikan foto.",
   "summary": "Temukan foto serupa di iPhone, pilih yang ingin disimpan, lalu hapus sisanya. Atau hapus foto dalam rentang tanggal, termasuk favorit, setelah mengonfirmasi.",
-  "availability": "Untuk iPhone · iOS 17 atau lebih baru · Segera hadir · Gratis, tanpa iklan atau pembelian dalam aplikasi",
+  "availability": "Versi 1.1 mendatang: iPhone · iOS 17+ · 1.1: Gratis dengan iklan. Tanpa akun atau pembelian dalam aplikasi. Foto diproses di perangkat Anda.",
   "howTitle": "Sedikit ruang untuk kenangan Anda.",
   "step1Title": "Pilih rentang tanggal",
   "step1": "Rapikan foto dari 7 hari terakhir, bulan ini, atau tanggal pilihan. Tanggal awal dan akhir disertakan, berdasarkan tanggal pembuatan foto serta kalender dan zona waktu perangkat. Dengan akses terbatas, hanya foto yang diizinkan yang disertakan.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Cache pengenalan, pengenal foto, pilihan peninjauan, item yang diabaikan, preferensi bahasa, serta tanggal dan jumlah operasi disimpan secara lokal. Cache pengenalan dan status peninjauan tidak disertakan dalam cadangan sistem. Anda dapat menghapus cache, mereset item yang diabaikan, dan menghapus riwayat di aplikasi. Mencopot aplikasi menghapus data lokal aplikasi, tetapi tidak memulihkan foto yang dihapus.",
   "privacyPermissions": "Anda dapat mencabut atau membatasi akses Foto di Pengaturan iOS. Unduhan gambar cloud bersifat opsional dan ditangani layanan Foto Apple sesuai kebijakan privasi Apple. Pembersihan foto serupa melindungi favorit; Bersihkan per Tanggal menyertakan favorit dan memerlukan konfirmasi aplikasi serta sistem. Penghapusan dapat disinkronkan melalui iCloud dan biasanya masih dapat dipulihkan di Baru Dihapus selama 30 hari.",
   "privacyWebsite": "Membuka tautan pemasaran, bantuan, atau privasi menghubungkan browser ke GitHub Pages, yang mungkin memproses alamat IP dan log permintaan. Situs ini hanya menyimpan preferensi bahasa secara lokal dan tidak memiliki skrip analitik atau iklan. Jika Anda mengirim email dukungan, kami menerima alamat email dan pesan Anda hanya untuk menjawab permintaan. Jangan lampirkan foto pribadi.",
-  "privacyFuture": "Fitur iklan atau pembelian di masa mendatang akan memerlukan pembaruan informasi produk dan pengungkapan privasi sebelum dirilis. Hubungi 540933120@qq.com untuk pertanyaan privasi.",
+  "privacyFuture": "Berlaku untuk SnapTrim 1.1. Diperbarui 10 Oktober 2026. Pengembang: Peng Lin. Mulai versi 1.1, Google AdMob menayangkan iklan nonpersonalisasi dan dapat memproses alamat IP, pengenal perangkat, interaksi iklan, dan diagnostik untuk periklanan, pencegahan penipuan, dan pengukuran. Foto tidak dibagikan kepada AdMob. Pilihan privasi iklan tersedia di Pengaturan jika diwajibkan. Kami tidak meminta akses IDFA. Google: https://policies.google.com/privacy · 540933120@qq.com Alamat IP dapat digunakan untuk memperkirakan lokasi umum; aplikasi tidak meminta akses GPS.",
   "subtitle": "Foto serupa & tanggal",
   "promotion": "Temukan foto serupa di iPhone. Simpan yang Anda suka, atau bersihkan rentang tanggal dengan konfirmasi yang jelas. Foto tetap di perangkat Anda.",
   "keywords": "foto,pembersih,serupa,duplikat,pengelola,album,rapikan",
   "screensTitle": "Lihat setiap langkah dengan jelas.",
   "screensNote": "Tampilan aplikasi asli menggunakan foto contoh yang boleh dihapus, bukan perpustakaan pribadi pengguna.",
   "suggestion": "Bahasa yang disarankan",
-  "updated": "Diperbarui 9 Oktober 2026"
+  "updated": "Berlaku untuk SnapTrim 1.1. Diperbarui 10 Oktober 2026. Pengembang: Peng Lin.",
+  "whatsNew": "Gratis dengan iklan. Tanpa akun atau pembelian dalam aplikasi. Foto diproses di perangkat Anda. Pilihan privasi iklan."
 }

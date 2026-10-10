@@ -5,7 +5,7 @@
   "language": "Dil",
   "tagline": "Anılar kalsın. Yer açılsın.",
   "summary": "iPhone’unuzdaki benzer fotoğrafları bulun, saklayacaklarınızı seçin ve kalanları silin. Ya da onayladıktan sonra, favoriler dahil bir tarih aralığındaki fotoğrafları silin.",
-  "availability": "iPhone için · iOS 17 veya sonrası · Çok yakında · Ücretsiz, reklamsız ve uygulama içi satın alma yok",
+  "availability": "Yakında çıkacak 1.1 sürümü: iPhone · iOS 17+ · 1.1: Reklamlarla ücretsiz. Hesap veya uygulama içi satın alma yok. Fotoğraflar cihazınızda işlenir.",
   "howTitle": "Anılarınıza biraz yer açın.",
   "step1Title": "Bir tarih aralığı seçin",
   "step1": "Son 7 günü, bu ayı veya özel tarihleri düzenleyin. Fotoğrafın oluşturulma tarihi ve cihazınızın takvimi ile saat dilimi kullanılır; başlangıç ve bitiş tarihleri dahildir. Sınırlı erişimde yalnızca izin verilen fotoğraflar dahil edilir.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Tanıma önbellekleri, fotoğraf kimlikleri, inceleme seçimleri, yok sayılan öğeler, dil tercihi ve işlem tarihleri/sayıları yerel olarak saklanır. Tanıma önbellekleri ve inceleme durumu sistem yedeklemesine dahil edilmez. Uygulamada önbellekleri temizleyebilir, yok sayılan öğeleri sıfırlayabilir ve geçmişi silebilirsiniz. Uygulamayı kaldırmak yerel uygulama verilerini siler ancak silinen fotoğrafları geri getirmez.",
   "privacyPermissions": "iOS Ayarları’nda Fotoğraflar erişimini iptal edebilir veya sınırlayabilirsiniz. Buluttan görüntü indirmek isteğe bağlıdır ve Apple’ın gizlilik politikası kapsamında Apple’ın Fotoğraflar hizmeti tarafından yürütülür. Benzer fotoğraf temizliği favorileri korur; Tarihe Göre Temizlik favorileri dahil eder ve hem uygulama hem sistem onayı gerektirir. Silme işlemi iCloud üzerinden eşzamanlanabilir ve fotoğraflar normalde Son Silinenler’de 30 gün boyunca kurtarılabilir.",
   "privacyWebsite": "Tanıtım, yardım veya gizlilik bağlantılarını açmak tarayıcınızı GitHub Pages’e bağlar; bu hizmet IP adreslerini ve istek günlüklerini işleyebilir. Bu web sitesi yerel olarak yalnızca dil tercihini saklar ve analiz ya da reklam betikleri içermez. Desteğe e-posta gönderirseniz e-posta adresinizi ve mesajınızı yalnızca isteğinizi yanıtlamak için alırız. Lütfen özel fotoğraflar eklemeyin.",
-  "privacyFuture": "Gelecekteki reklam veya satın alma özellikleri yayınlanmadan önce ürün bilgilerinin ve gizlilik açıklamalarının güncellenmesi gerekir. Gizlilik soruları için 540933120@qq.com adresine yazın.",
+  "privacyFuture": "SnapTrim 1.1 için geçerlidir. 10 Ekim 2026 tarihinde güncellendi. Geliştirici: Peng Lin. 1.1 sürümünden itibaren Google AdMob kişiselleştirilmemiş reklamlar sunar; reklam, sahtekarlığı önleme ve ölçüm için IP adreslerini, cihaz tanımlayıcılarını, reklam etkileşimlerini ve tanılama verilerini işleyebilir. Fotoğraflar AdMob ile paylaşılmaz. Gerektiğinde Ayarlar’da reklam gizliliği seçenekleri sunulur. IDFA erişimi istemeyiz. Google: https://policies.google.com/privacy · 540933120@qq.com IP adresleri yaklaşık konumu tahmin etmek için kullanılabilir; uygulama GPS erişimi istemez.",
   "subtitle": "Benzer ve tarihli fotoğraf sil",
   "promotion": "iPhone’unuzdaki benzer fotoğrafları bulun. Sevdiklerinizi saklayın veya onayla bir tarih aralığını temizleyin. Fotoğraflarınız cihazınızda kalır.",
   "keywords": "fotoğraf,temizlik,benzer,kopya,düzenleme,albüm",
   "screensTitle": "Her adımı net görün.",
   "screensNote": "Kullanıcının kişisel arşivi yerine silinebilir örnek fotoğraflarla hazırlanmış gerçek uygulama ekranları.",
   "suggestion": "Önerilen dil",
-  "updated": "9 Ekim 2026 tarihinde güncellendi"
+  "updated": "SnapTrim 1.1 için geçerlidir. 10 Ekim 2026 tarihinde güncellendi. Geliştirici: Peng Lin.",
+  "whatsNew": "Reklamlarla ücretsiz. Hesap veya uygulama içi satın alma yok. Fotoğraflar cihazınızda işlenir. Reklam gizliliği seçenekleri."
 }

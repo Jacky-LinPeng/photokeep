@@ -5,7 +5,7 @@
   "language": "Sprache",
   "tagline": "Momente bewahren. Platz schaffen.",
   "summary": "Finde ähnliche Fotos auf deinem iPhone, wähle aus, was bleiben soll, und lösche den Rest. Oder lösche nach Bestätigung Fotos aus einem Zeitraum, einschließlich Favoriten.",
-  "availability": "Für iPhone · Ab iOS 17 · Demnächst · Kostenlos, ohne Werbung oder In-App-Käufe",
+  "availability": "Kommende Version 1.1: iPhone · iOS 17+ · 1.1: Kostenlos mit Werbung. Ohne Konto oder In-App-Käufe. Fotos werden auf deinem Gerät verarbeitet.",
   "howTitle": "Ein bisschen Platz für deine Erinnerungen.",
   "step1Title": "Zeitraum auswählen",
   "step1": "Ordne die letzten 7 Tage, diesen Monat oder einen eigenen Zeitraum. Beide Grenzdaten sind eingeschlossen. Maßgeblich sind das Erstellungsdatum des Fotos sowie Kalender und Zeitzone deines Geräts. Bei eingeschränktem Zugriff werden nur freigegebene Fotos einbezogen.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Erkennungscaches, Fotokennungen, Prüfauswahl, ignorierte Elemente, Spracheinstellung sowie Daten und Anzahlen der Vorgänge werden lokal gespeichert. Erkennungscaches und Prüfstatus sind von der Systemsicherung ausgeschlossen. Du kannst in der App Caches leeren, ignorierte Elemente zurücksetzen und den Verlauf löschen. Eine Deinstallation entfernt lokale App-Daten, stellt aber gelöschte Fotos nicht wieder her.",
   "privacyPermissions": "Du kannst den Fotozugriff in den iOS-Einstellungen widerrufen oder einschränken. Cloud-Bilddownloads sind optional und werden von Apples Fotos-Dienst gemäß Apples Datenschutzrichtlinie ausgeführt. Die Bereinigung ähnlicher Fotos schützt Favoriten; die Bereinigung nach Datum schließt sie ein und verlangt eine Bestätigung in der App und im System. Löschungen können über iCloud synchronisiert werden; Fotos lassen sich normalerweise 30 Tage lang unter „Zuletzt gelöscht“ wiederherstellen.",
   "privacyWebsite": "Beim Öffnen von Produkt-, Hilfe- oder Datenschutzlinks verbindet sich dein Browser mit GitHub Pages. Dabei können IP-Adressen und Anfrageprotokolle verarbeitet werden. Diese Website speichert lokal nur eine Spracheinstellung und enthält keine Analyse- oder Werbeskripte. Wenn du dem Support eine E-Mail sendest, erhalten wir deine E-Mail-Adresse und Nachricht ausschließlich zur Beantwortung deiner Anfrage. Bitte hänge keine privaten Fotos an.",
-  "privacyFuture": "Künftige Werbe- oder Kauffunktionen erfordern vor der Veröffentlichung aktualisierte Produktinformationen und Datenschutzhinweise. Bei Datenschutzfragen kontaktiere 540933120@qq.com.",
+  "privacyFuture": "Gilt für SnapTrim 1.1. Aktualisiert am 10. Oktober 2026. Entwickler: Peng Lin. Ab Version 1.1 zeigt Google AdMob nicht personalisierte Werbung und kann IP-Adressen, Gerätekennungen, Werbeinteraktionen und Diagnosedaten für Werbung, Betrugsprävention und Messung verarbeiten. Fotos werden nicht mit AdMob geteilt. Datenschutzoptionen für Werbung sind bei Bedarf in den Einstellungen verfügbar. Wir fordern keinen IDFA-Zugriff an. Google: https://policies.google.com/privacy · 540933120@qq.com IP-Adressen können zur Schätzung des ungefähren Standorts verwendet werden; die App fordert keinen GPS-Zugriff an.",
   "subtitle": "Fotos nach Ähnlichkeit & Datum",
   "promotion": "Finde ähnliche Fotos auf deinem iPhone. Behalte Lieblingsbilder oder bereinige einen Zeitraum nach Bestätigung. Deine Fotos bleiben auf deinem Gerät.",
   "keywords": "Fotos,Bereinigen,ähnlich,Duplikate,Ordnen,Album",
   "screensTitle": "Jeden Schritt klar im Blick.",
   "screensNote": "Echte App-Ansichten mit entbehrlichen Beispielfotos, ohne persönliche Fotomediathek eines Nutzers.",
   "suggestion": "Vorgeschlagene Sprache",
-  "updated": "Aktualisiert am 9. Oktober 2026"
+  "updated": "Gilt für SnapTrim 1.1. Aktualisiert am 10. Oktober 2026. Entwickler: Peng Lin.",
+  "whatsNew": "Kostenlos mit Werbung. Ohne Konto oder In-App-Käufe. Fotos werden auf deinem Gerät verarbeitet. Datenschutzoptionen für Werbung."
 }

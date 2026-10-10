@@ -5,7 +5,7 @@
   "language": "Ngôn ngữ",
   "tagline": "Giữ kỷ niệm. Dọn gọn ảnh.",
   "summary": "Tìm ảnh tương tự trên iPhone, chọn ảnh muốn giữ và xóa phần còn lại. Hoặc xóa ảnh trong một khoảng ngày, kể cả ảnh yêu thích, sau khi xác nhận.",
-  "availability": "Dành cho iPhone · iOS 17 trở lên · Sắp ra mắt · Miễn phí, không quảng cáo hay mua hàng trong ứng dụng",
+  "availability": "Phiên bản 1.1 sắp ra mắt: iPhone · iOS 17+ · 1.1: Miễn phí có quảng cáo. Không cần tài khoản hay mua hàng trong ứng dụng. Ảnh được xử lý trên thiết bị.",
   "howTitle": "Thêm chút không gian cho kỷ niệm.",
   "step1Title": "Chọn khoảng ngày",
   "step1": "Sắp xếp ảnh trong 7 ngày qua, tháng này hoặc khoảng ngày tùy chọn. Bao gồm cả ngày đầu và ngày cuối, dựa trên ngày tạo ảnh cùng lịch và múi giờ của thiết bị. Khi quyền truy cập bị giới hạn, chỉ những ảnh được cho phép mới được đưa vào.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Bộ nhớ đệm nhận dạng, mã định danh ảnh, lựa chọn khi xem xét, mục bỏ qua, tùy chọn ngôn ngữ cùng ngày và số lượng của thao tác được lưu trên thiết bị. Bộ nhớ đệm nhận dạng và trạng thái xem xét không được đưa vào bản sao lưu hệ thống. Bạn có thể xóa bộ nhớ đệm, đặt lại mục bỏ qua và xóa lịch sử trong ứng dụng. Gỡ ứng dụng sẽ xóa dữ liệu cục bộ của ứng dụng nhưng không khôi phục ảnh đã xóa.",
   "privacyPermissions": "Bạn có thể thu hồi hoặc giới hạn quyền truy cập Ảnh trong Cài đặt iOS. Tải ảnh từ đám mây là tùy chọn và được dịch vụ Ảnh của Apple xử lý theo chính sách quyền riêng tư của Apple. Dọn ảnh tương tự bảo vệ ảnh yêu thích; Dọn theo ngày bao gồm ảnh yêu thích và yêu cầu xác nhận trong ứng dụng lẫn hệ thống. Việc xóa có thể đồng bộ qua iCloud và thường vẫn có thể khôi phục trong Đã xóa gần đây trong 30 ngày.",
   "privacyWebsite": "Mở liên kết giới thiệu sản phẩm, trợ giúp hoặc quyền riêng tư sẽ kết nối trình duyệt với GitHub Pages, nơi có thể xử lý địa chỉ IP và nhật ký yêu cầu. Trang web này chỉ lưu tùy chọn ngôn ngữ trên thiết bị và không có mã phân tích hay quảng cáo. Nếu bạn gửi email hỗ trợ, chúng tôi nhận địa chỉ email và nội dung thư chỉ để trả lời yêu cầu. Vui lòng không đính kèm ảnh riêng tư.",
-  "privacyFuture": "Các tính năng quảng cáo hoặc mua hàng trong tương lai sẽ cần cập nhật thông tin sản phẩm và công bố quyền riêng tư trước khi phát hành. Liên hệ 540933120@qq.com nếu có câu hỏi về quyền riêng tư.",
+  "privacyFuture": "Áp dụng cho SnapTrim 1.1. Cập nhật ngày 10 tháng 10 năm 2026. Nhà phát triển: Peng Lin. Từ phiên bản 1.1, Google AdMob hiển thị quảng cáo không cá nhân hóa và có thể xử lý địa chỉ IP, mã nhận dạng thiết bị, tương tác quảng cáo và dữ liệu chẩn đoán để quảng cáo, ngăn gian lận và đo lường. Ảnh không được chia sẻ với AdMob. Lựa chọn quyền riêng tư quảng cáo có trong Cài đặt khi được yêu cầu. Chúng tôi không yêu cầu truy cập IDFA. Google: https://policies.google.com/privacy · 540933120@qq.com Địa chỉ IP có thể được dùng để ước tính vị trí gần đúng; ứng dụng không yêu cầu truy cập GPS.",
   "subtitle": "Dọn ảnh tương tự và theo ngày",
   "promotion": "Tìm ảnh tương tự trên iPhone. Giữ ảnh bạn thích hoặc dọn theo khoảng ngày với bước xác nhận rõ ràng. Ảnh của bạn vẫn ở trên thiết bị.",
   "keywords": "ảnh,dọn dẹp,tương tự,trùng lặp,sắp xếp,album",
   "screensTitle": "Theo dõi rõ từng bước.",
   "screensNote": "Màn hình ứng dụng thực tế dùng ảnh mẫu có thể xóa, không phải thư viện cá nhân của người dùng.",
   "suggestion": "Ngôn ngữ đề xuất",
-  "updated": "Cập nhật ngày 9 tháng 10 năm 2026"
+  "updated": "Áp dụng cho SnapTrim 1.1. Cập nhật ngày 10 tháng 10 năm 2026. Nhà phát triển: Peng Lin.",
+  "whatsNew": "Miễn phí có quảng cáo. Không cần tài khoản hay mua hàng trong ứng dụng. Ảnh được xử lý trên thiết bị. Lựa chọn quyền riêng tư quảng cáo."
 }

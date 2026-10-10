@@ -5,7 +5,7 @@
   "language": "Idioma",
   "tagline": "Conserva los momentos. Libera espacio.",
   "summary": "Encuentra fotos similares en tu iPhone, elige cuáles conservar y elimina el resto. También puedes eliminar las fotos de un intervalo de fechas, incluidos los favoritos, tras confirmarlo.",
-  "availability": "Para iPhone · iOS 17 o posterior · Próximamente · Gratis, sin anuncios ni compras en la app",
+  "availability": "Próxima versión 1.1: iPhone · iOS 17+ · 1.1: Gratis con anuncios. Sin cuenta ni compras en la app. Las fotos se procesan en tu dispositivo.",
   "howTitle": "Un poco de espacio para tus recuerdos.",
   "step1Title": "Elige un intervalo de fechas",
   "step1": "Organiza los últimos 7 días, este mes o un intervalo personalizado. Se incluyen ambas fechas límite, según la fecha de creación de la foto y el calendario y la zona horaria del dispositivo. Con acceso limitado solo se incluyen las fotos autorizadas.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Las cachés de reconocimiento, los identificadores de fotos, las decisiones de revisión, los elementos ignorados, la preferencia de idioma y las fechas y cantidades de las operaciones se guardan localmente. Las cachés de reconocimiento y el estado de revisión se excluyen de la copia de seguridad del sistema. Puedes borrar las cachés, restablecer los elementos ignorados y borrar el historial en la app. Desinstalarla elimina los datos locales de la app, pero no restaura las fotos eliminadas.",
   "privacyPermissions": "Puedes revocar o limitar el acceso a Fotos en Ajustes de iOS. Las descargas de imágenes de la nube son opcionales y las gestiona el servicio Fotos de Apple según la política de privacidad de Apple. La limpieza de similares protege los favoritos; la Limpieza por fecha los incluye y requiere confirmación en la app y en el sistema. La eliminación puede sincronizarse mediante iCloud y las fotos normalmente se pueden recuperar en Eliminado recientemente durante 30 días.",
   "privacyWebsite": "Al abrir enlaces de presentación, ayuda o privacidad, tu navegador se conecta a GitHub Pages, que puede procesar direcciones IP y registros de solicitudes. Este sitio solo guarda una preferencia de idioma localmente y no contiene scripts de análisis ni publicidad. Si escribes al soporte, recibimos tu dirección de correo y tu mensaje solo para responder a tu solicitud. No adjuntes fotos privadas.",
-  "privacyFuture": "Las futuras funciones de publicidad o compras requerirán información del producto y declaraciones de privacidad actualizadas antes de su publicación. Para consultas sobre privacidad, escribe a 540933120@qq.com.",
+  "privacyFuture": "Se aplica a SnapTrim 1.1. Actualizada el 10 de octubre de 2026. Desarrollador: Peng Lin. Desde la versión 1.1, Google AdMob muestra anuncios no personalizados y puede procesar direcciones IP, identificadores del dispositivo, interacciones publicitarias y diagnósticos para publicidad, prevención de fraude y medición. No se comparten fotos con AdMob. Las opciones de privacidad están disponibles en Ajustes donde se requieran. No solicitamos acceso al IDFA. Google: https://policies.google.com/privacy · 540933120@qq.com Las direcciones IP pueden usarse para estimar la ubicación aproximada; la app no solicita acceso al GPS.",
   "subtitle": "Fotos similares y por fecha",
   "promotion": "Encuentra fotos similares en tu iPhone. Conserva las que te gustan o limpia un intervalo de fechas tras confirmarlo. Tus fotos se quedan en tu dispositivo.",
   "keywords": "fotos,limpieza,similares,duplicados,organizar,álbum",
   "screensTitle": "Cada paso, con claridad.",
   "screensNote": "Pantallas reales de la app con fotos de ejemplo desechables, sin la fototeca personal de ningún usuario.",
   "suggestion": "Idioma sugerido",
-  "updated": "Actualizado el 9 de octubre de 2026"
+  "updated": "Se aplica a SnapTrim 1.1. Actualizada el 10 de octubre de 2026. Desarrollador: Peng Lin.",
+  "whatsNew": "Gratis con anuncios. Sin cuenta ni compras en la app. Las fotos se procesan en tu dispositivo. Opciones de privacidad de anuncios."
 }

@@ -5,7 +5,7 @@
   "language": "Lingua",
   "tagline": "Conserva i ricordi. Libera spazio.",
   "summary": "Trova le foto simili sul tuo iPhone, scegli quali conservare ed elimina le altre. Oppure elimina le foto di un intervallo di date, inclusi i preferiti, dopo la conferma.",
-  "availability": "Per iPhone · iOS 17 o successivo · In arrivo · Gratis, senza pubblicità né acquisti in-app",
+  "availability": "Prossima versione 1.1: iPhone · iOS 17+ · 1.1: Gratis con pubblicità. Nessun account o acquisto in-app. Le foto vengono elaborate sul dispositivo.",
   "howTitle": "Un po’ di spazio per i tuoi ricordi.",
   "step1Title": "Scegli un intervallo di date",
   "step1": "Organizza gli ultimi 7 giorni, il mese corrente o un intervallo personalizzato. Le date iniziale e finale sono incluse, in base alla data di creazione della foto e al calendario e fuso orario del dispositivo. Con accesso limitato vengono incluse solo le foto autorizzate.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Cache di riconoscimento, identificativi delle foto, scelte di revisione, elementi ignorati, preferenza di lingua e date e conteggi delle operazioni vengono memorizzati localmente. Le cache di riconoscimento e lo stato di revisione sono esclusi dal backup di sistema. Nell’app puoi svuotare le cache, reimpostare gli elementi ignorati e cancellare la cronologia. La disinstallazione rimuove i dati locali dell’app ma non ripristina le foto eliminate.",
   "privacyPermissions": "Puoi revocare o limitare l’accesso alle foto nelle Impostazioni di iOS. I download di immagini dal cloud sono facoltativi e gestiti dal servizio Foto di Apple secondo l’informativa sulla privacy di Apple. La pulizia delle foto simili protegge i preferiti; la Pulizia per data li include e richiede la conferma dell’app e del sistema. Le eliminazioni possono sincronizzarsi tramite iCloud e le foto restano normalmente recuperabili in Eliminati di recente per 30 giorni.",
   "privacyWebsite": "Aprire i link promozionali, di assistenza o sulla privacy collega il browser a GitHub Pages, che può elaborare indirizzi IP e registri delle richieste. Questo sito memorizza localmente solo una preferenza di lingua e non contiene script di analisi o pubblicità. Se scrivi all’assistenza, riceviamo il tuo indirizzo e-mail e il messaggio esclusivamente per rispondere alla richiesta. Non allegare foto private.",
-  "privacyFuture": "Eventuali future funzioni pubblicitarie o di acquisto richiederanno informazioni sul prodotto e comunicazioni sulla privacy aggiornate prima del rilascio. Per domande sulla privacy contatta 540933120@qq.com.",
+  "privacyFuture": "Si applica a SnapTrim 1.1. Aggiornata il 10 ottobre 2026. Sviluppatore: Peng Lin. Dalla versione 1.1, Google AdMob mostra annunci non personalizzati e può elaborare indirizzi IP, identificatori del dispositivo, interazioni pubblicitarie e dati diagnostici per pubblicità, prevenzione delle frodi e misurazione. Le foto non vengono condivise con AdMob. Le scelte sulla privacy sono disponibili nelle impostazioni ove richiesto. Non richiediamo l’accesso all’IDFA. Google: https://policies.google.com/privacy · 540933120@qq.com Gli indirizzi IP possono essere usati per stimare la posizione approssimativa; l’app non richiede l’accesso al GPS.",
   "subtitle": "Foto simili e pulizia per data",
   "promotion": "Trova le foto simili su iPhone. Conserva quelle che ami o pulisci un intervallo di date dopo la conferma. Le foto restano sul tuo dispositivo.",
   "keywords": "foto,pulizia,simili,duplicati,organizzare,album",
   "screensTitle": "Ogni passaggio, ben chiaro.",
   "screensNote": "Schermate reali dell’app con foto di esempio eliminabili, senza la libreria personale di un utente.",
   "suggestion": "Lingua suggerita",
-  "updated": "Aggiornato il 9 ottobre 2026"
+  "updated": "Si applica a SnapTrim 1.1. Aggiornata il 10 ottobre 2026. Sviluppatore: Peng Lin.",
+  "whatsNew": "Gratis con pubblicità. Nessun account o acquisto in-app. Le foto vengono elaborate sul dispositivo. Scelte sulla privacy degli annunci."
 }

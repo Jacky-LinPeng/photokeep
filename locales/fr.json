@@ -5,7 +5,7 @@
   "language": "Langue",
   "tagline": "Gardez les souvenirs. Faites de la place.",
   "summary": "Trouvez les photos similaires sur votre iPhone, choisissez celles à garder et supprimez les autres. Vous pouvez aussi supprimer les photos d’une période, y compris les favoris, après confirmation.",
-  "availability": "Pour iPhone · iOS 17 ou ultérieur · Bientôt disponible · Gratuit, sans publicité ni achats intégrés",
+  "availability": "Prochaine version 1.1 : iPhone · iOS 17+ · 1.1: Gratuit avec publicités. Sans compte ni achats intégrés. Les photos sont traitées sur votre appareil.",
   "howTitle": "Un peu de place pour vos souvenirs.",
   "step1Title": "Choisissez une période",
   "step1": "Organisez les 7 derniers jours, le mois en cours ou une période personnalisée. Les deux dates limites sont incluses, selon la date de création des photos, le calendrier et le fuseau horaire de votre appareil. Avec un accès limité, seules les photos autorisées sont incluses.",
@@ -30,12 +30,13 @@
   "privacyStorage": "Les caches de reconnaissance, identifiants de photo, choix de vérification, éléments ignorés, préférence de langue et dates et nombres d’opérations sont stockés localement. Les caches de reconnaissance et l’état de vérification sont exclus de la sauvegarde système. Vous pouvez vider les caches, réinitialiser les éléments ignorés et effacer l’historique dans l’app. La désinstallation supprime les données locales de l’app, mais ne restaure pas les photos supprimées.",
   "privacyPermissions": "Vous pouvez révoquer ou limiter l’accès aux photos dans les Réglages iOS. Le téléchargement d’images depuis le cloud est facultatif et géré par le service Photos d’Apple selon la politique de confidentialité d’Apple. Le nettoyage des similaires protège les favoris ; le nettoyage par date les inclut et exige une confirmation dans l’app et dans le système. Les suppressions peuvent se synchroniser via iCloud et les photos restent normalement récupérables dans Suppressions récentes pendant 30 jours.",
   "privacyWebsite": "Ouvrir les liens de présentation, d’aide ou de confidentialité connecte votre navigateur à GitHub Pages, qui peut traiter les adresses IP et les journaux de requêtes. Ce site ne stocke localement qu’une préférence de langue et ne contient aucun script d’analyse ou de publicité. Si vous contactez l’assistance par e-mail, nous recevons votre adresse e-mail et votre message uniquement pour répondre à votre demande. Veuillez ne pas joindre de photos privées.",
-  "privacyFuture": "Toute future fonctionnalité de publicité ou d’achat nécessitera une mise à jour des informations produit et des déclarations de confidentialité avant sa publication. Pour toute question sur la confidentialité, contactez 540933120@qq.com.",
+  "privacyFuture": "S’applique à SnapTrim 1.1. Mise à jour le 10 octobre 2026. Développeur : Peng Lin. À partir de la version 1.1, Google AdMob diffuse des annonces non personnalisées et peut traiter les adresses IP, identifiants d’appareil, interactions publicitaires et diagnostics à des fins de publicité, de prévention de la fraude et de mesure. Aucune photo n’est partagée avec AdMob. Les choix de confidentialité sont disponibles dans les réglages lorsque requis. Nous ne demandons pas l’accès à l’IDFA. Google: https://policies.google.com/privacy · 540933120@qq.com Les adresses IP peuvent servir à estimer une localisation approximative ; l’app ne demande pas l’accès au GPS.",
   "subtitle": "Tri par similitude et par date",
   "promotion": "Trouvez les photos similaires sur votre iPhone. Gardez vos préférées ou nettoyez une période après confirmation. Vos photos restent sur votre appareil.",
   "keywords": "photos,nettoyage,similaires,doublons,tri,album",
   "screensTitle": "Chaque étape en toute clarté.",
   "screensNote": "Véritables écrans de l’app avec des photos d’exemple jetables, sans photothèque personnelle d’utilisateur.",
   "suggestion": "Langue suggérée",
-  "updated": "Mis à jour le 9 octobre 2026"
+  "updated": "S’applique à SnapTrim 1.1. Mise à jour le 10 octobre 2026. Développeur : Peng Lin.",
+  "whatsNew": "Gratuit avec publicités. Sans compte ni achats intégrés. Les photos sont traitées sur votre appareil. Choix de confidentialité des annonces."
 }
